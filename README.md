@@ -15,8 +15,8 @@ This project aims to estimate the tip amount given to taxi drivers. The evaluati
 - Application of XGBoost.
 - Hyperparameter tuning using step-wise hyperopt.
 
-## Technologies Used
+## Libraries used
 
-- Python (Pandas, NumPy)
-- Machine Learning (XGBoost, Scikit-learn)
-- Hyperparameter optimization with hyperopt
+- Pandas, NumPy
+- XGBoost, Scikit-learn
+- Hyperopt
